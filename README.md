@@ -1,0 +1,1 @@
+# serenity-gradle-jdk17-template
